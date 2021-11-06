@@ -6,8 +6,6 @@ python-logging-library は Pythonランタイム の マイクロサービス �
 
 ・OS: Linux OS  
 ・CPU: ARM/AMD/Intel  
-・Kubernetes  
-・AION のリソース  
 
 ## 利用方法  
 本リポジトリをインストールしてください。
