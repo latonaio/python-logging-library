@@ -1,11 +1,12 @@
 # python-logging-library  
-python-logging-library は Pythonランタイム の マイクロサービス の ログ を出力する際に、ログのjsonフォーマットを統一するためのPythonライブラリです。  
+python-logging-library は、Pythonランタイム の マイクロサービス の ログ を出力する際に、ログのjsonフォーマットを統一するためのライブラリです。  
 
 ## 動作環境
 動作には以下の環境であることを前提とします。  
 
-・OS: Linux OS  
-・CPU: ARM/AMD/Intel  
+* OS: Linux OS  
+* CPU: ARM/AMD/Intel  
+* Python Runtime
 
 ## 利用方法  
 本リポジトリをインストールしてください。
