@@ -1,5 +1,8 @@
 {
-"message": "[gRPC] get cache kanban",
-"level": "DEBUG",
-"cursor": "/usr/local/lib/python3.9/site-packages/aion/logger/logger.py#L27"
+	"message": "message received", 
+	"params": {"guest_key": 1636685250840, "image_path": "/var/lib/aion/Data/direct-next-service_1/1636685249390.jpg"}, 
+	"level": "INFO", 
+	"cursor": "/var/lib/aion/Runtime/azure-face-api-identifier-kube/main.py#L133", 
+	"timestamp": "2021-11-12T02:47:30.432Z"
 }
+
